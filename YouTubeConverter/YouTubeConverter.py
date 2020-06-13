@@ -6,7 +6,6 @@
 #***************************************************************************************************#
 from pytube import YouTube
 from tkinter import *
-from PIL import ImageTk,Image
 from moviepy.editor import *
 import os
 import time
