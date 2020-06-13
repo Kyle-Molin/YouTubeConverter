@@ -3,7 +3,6 @@ Converts YouTube videos to MP4 and MP3 formats.
 
 Modules installed through pip:
 - pip install pytube
-- pip install pillow
 - pip install moviepy
 
 Intigrated Python modules:
