@@ -12,3 +12,5 @@ Intigrated Python modules:
 - glob
 
 pytube violates YouTubes policy's, therefore I Kyle Molin will not be held responsible for any negitive ramifications associated with using this program.
+
+ico and gif's are original works made in Adobe Illustrator
