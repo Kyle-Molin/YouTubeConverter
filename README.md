@@ -9,7 +9,7 @@ SETUP:
 5. Simply double click the python script to run.
 
 Modules installed through pip:
-- pip install pytube
+- pip install pytube3
 - pip install moviepy
 
 Intigrated Python modules:
